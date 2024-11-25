@@ -1,2 +1,2 @@
 # thebridgelab.io
-Wiki
+Public Wiki
