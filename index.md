@@ -6,7 +6,7 @@ nav_order: 1
 
 # Welcome to Your Wiki
 
-This is a comprehensive documentation site for Rwar. Here, you'll find everything you need to get started, explore advanced features, and troubleshoot issues.  
+This is a comprehensive documentation site for The Bridge. Here, you'll find everything you need to get started, explore advanced features, and troubleshoot issues.  
 
 How to update with your own articles.  Simply create a Markdown file and merge your branch into Main.  Once commited a github action will run and update the site with your new content!
 
