@@ -21,3 +21,4 @@ jobs:
       - name: Run a script
         run: echo "Hello, GitHub Actions!"
 ```
+Copy this to your .github/workflows folder (if it doesn't exist create it), and you are good to go.
