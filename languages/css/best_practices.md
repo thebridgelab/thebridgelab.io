@@ -2,7 +2,7 @@
 parent: CSS
 ---
 
-# CSS Best Practices
+# Best Practices
 
 CSS. This short three letter acronym that strikes fear into many developers. The amount of selectors and properties to memorize is endless you say? Fear not! Below is a list of best practices to follow that will get you most of the way on your journey to CSS Mastery.
 
