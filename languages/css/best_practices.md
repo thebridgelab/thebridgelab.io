@@ -1,3 +1,7 @@
+---
+parent: CSS
+---
+
 # CSS Best Practices
 
 ## Alphabetize selector properties

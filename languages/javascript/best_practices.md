@@ -1,3 +1,7 @@
+---
+parent: Javascript
+---
+
 # JavaScript Best Practices
 
 With the release of ECMAScript 2015 (ES6) in June of 2015, JavaScript received several new features and syntax improvements that places it amongst other modern languages like C#, Kotlin, and Swift. Below is a set of best practices we encourage you to use to help you write cleaner, more predictable code.
