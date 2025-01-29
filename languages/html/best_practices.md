@@ -2,9 +2,9 @@
 parent: HTML
 ---
 
-# HTML 5
+# Best Practices
 
-TODO: ADD SUMMARY
+HTML is in its fifth iteration (HTML5) now, bringing in modern features and better accessibility to the web. Below is a list of good best practices to start using when developing web applications.
 
 ## Always include a lang attribute for accessibility
 
