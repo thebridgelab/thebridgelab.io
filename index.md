@@ -13,7 +13,13 @@ How to update with your own articles.  Simply create a Markdown file and merge y
 ## Table of Contents
 
 ### [GitHub Actions](./github_actions/index)
+
 Automate workflows with GitHub Actions. Learn to build, test, and deploy your code.
 
+### [Languages](./github_actions/index)
+
+Learn best practices and patterns across differeent languages.
+
 ### [Starter Kits](./starter-kits/index)
+
 Get started on the right foot with a starter-kit
