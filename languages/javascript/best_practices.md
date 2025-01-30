@@ -25,3 +25,15 @@ With the release of ECMAScript 2015 (ES6) in June of 2015, JavaScript received s
 ## Use async/await for asynchronous code
 
 ![Async best practices](../../images/javascript/async_best_practices.png)
+
+## Use the new destructuring syntax to pull individual properties from objects
+
+![Destructuring best practices](../../images/javascript/destructuring_best_practices.png)
+
+## Always use triple equality/inequality operators in comparison checks
+
+![Equality/inequality best practices](../../images/javascript/equality_inequality_best_practices.png)
+
+## Always return early if data is invalid or a check fails
+
+![Return early best practices](../../images/javascript/return_early_best_practices.png)
