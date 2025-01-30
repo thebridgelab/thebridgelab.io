@@ -18,7 +18,7 @@ Automate workflows with GitHub Actions. Learn to build, test, and deploy your co
 
 ### [Languages](./github_actions/index)
 
-Learn best practices and patterns across differeent languages.
+Learn best practices and patterns across different languages.
 
 ### [Starter Kits](./starter-kits/index)
 
