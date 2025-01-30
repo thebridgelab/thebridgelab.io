@@ -4,7 +4,7 @@ parent: CSS
 
 # Best Practices
 
-CSS. This short three letter acronym that strikes fear into many developers. The amount of selectors and properties to memorize is endless you say? Fear not! Below is a list of best practices to follow that will get you most of the way on your journey to CSS Mastery.
+CSS3 ushered CSS into a new era! Twice as fast as CSS2.1? Check! GPU accelerated animations? Check! Native grid and flexbox layout? Check! Below is a list of best practices to start using now to write better stylesheets.
 
 ## Alphabetize selector properties
 
