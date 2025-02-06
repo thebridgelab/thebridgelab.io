@@ -1,0 +1,69 @@
+/* There are three ways of centering content horizontally. */
+
+/* If content has a fixed width, we can simply utilize
+   the margin property and set the right and left
+   to auto. Browsers will handle the rest for us
+   and center the content automagically. */
+.centered-content-with-width {
+  margin: 0 auto;
+  width: 480px;
+}
+
+/* If a parent container needs to center its children
+   you can utilize flexbox and provide center to the
+   justify-content property. */
+.centered-content-with-flexbox {
+  display: flex;
+  justify-content: center;
+}
+
+/* For absolute positioned items that need to be
+   centered within their relative parent you'll
+   need to specify 50% to the left property and
+   use the translateX function and provide a
+   negative 50% value as the parameter while
+   using the transform property. */
+.centered-content-with-absolute {
+  left: 50%;
+  position: absolute;
+  transform: translateX(-50%);
+}
+
+/* Use the border-radius property to control the
+   roundness of corners. The property takes 1-4
+   values; top left, top right, bottom right,
+   and bottom left corner values. Providing
+   one value will give each corner the same
+   value. To see the border you will also need
+   to use the border property and provide
+   the border thickness, type, and color.
+   leaving the color out defaults to black. */
+.contact-us__form {
+  border: 1px solid;
+  border-radius: 6px;
+}
+
+/* To completely clear a button of its style,
+   you'll neeed to set the background to none
+   and provide the pointer value to the cursor
+   property. The last one is important because
+   clearing the background resets the cursor
+   type. When a user hovers over the button
+   they will not see the pointer icon like
+   before. With those two properties set,
+   you're free to customize to your heart's
+   content. Customizing the button's default
+   style is a great way to have consistent
+   buttons across different browsers. */
+.contact-us__submit {
+  align-items: center;
+  background: none;
+  border: 1px solid blue;
+  cursor: pointer;
+  display: inline-flex;
+  height: 2.25em;
+  justify-content: center;
+  min-width: 4em;
+  outline: none;
+  padding: 0 1em;
+}
