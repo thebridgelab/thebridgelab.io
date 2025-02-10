@@ -4,7 +4,7 @@ parent: JavaScript
 
 # Tips & Tricks
 
-TODO: SUMMARY.
+JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it - Douglas Crawford. So true! But, here's a few tips & tricks to help you use the language better.
 
 ## Create GUIDs without 3rd party libraries
 
