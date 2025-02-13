@@ -1,5 +1,5 @@
 ---
-parent: Javascript
+parent: JavaScript
 ---
 
 # Tips & Tricks
