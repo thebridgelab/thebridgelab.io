@@ -96,3 +96,4 @@ You can find our repository with common GitHub examples here:
   - Waits for the snapshot to be available.
   - Restores a new database instance from the snapshot.
   - Cleans up the snapshot after use.
+
